@@ -1,0 +1,11 @@
+{
+  "baseUrl": "https://automation.herolo.co.il/",
+  "viewportWidth": 1920,
+  "viewportHeight": 960,
+  "testFiles": ["tests/*.spec.js"],
+  "experimentalStudio": true,
+  "waitForAnimations": true,
+  "defaultCommandTimeout": 60000,
+  "pageLoadTimeout": 60000,
+  "requestTimeout": 60000
+}
